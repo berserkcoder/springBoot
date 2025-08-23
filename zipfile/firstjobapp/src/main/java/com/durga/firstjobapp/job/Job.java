@@ -1,5 +1,6 @@
 package com.durga.firstjobapp.job;
 
+import com.durga.firstjobapp.company.Company;
 import jakarta.persistence.*;
 
 @Entity
@@ -14,8 +15,11 @@ public class Job {
     private String maxSalary;
     private String location;
 
-    public Job(){
+    @ManyToOne
+    private Company company;
 
+    public Job(){
+        // we need a default constructor in an @Entity because Hibernate uses reflection to instantiate the entity class before setting its fields from the database
     }
 
     public Job(Long id, String title, String description, String minSalary, String maxSalary,String location) {
@@ -25,6 +29,15 @@ public class Job {
         this.minSalary = minSalary;
         this.maxSalary = maxSalary;
         this.location = location;
+    }
+
+
+    public Company getCompany() {
+        return company;
+    }
+
+    public void setCompany(Company company) {
+        this.company = company;
     }
 
     public Long getId() {
