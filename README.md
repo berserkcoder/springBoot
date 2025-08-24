@@ -27,6 +27,7 @@ Why postgreSQL over H2?
 
 What is a Monolithic architecture?
 Monolithic architectures is a design where all the components of an application are interconnected and interdependent
+
 Problems : 
 1) Difficult to Implement Changes
 2) Lack of Scalibility
@@ -40,6 +41,7 @@ Problems :
 
 What is Microservices?
 It structures an application as a collection of small autonomous services.
+
 Principles: 
 1) Single Responsibility 
 2) Independence
