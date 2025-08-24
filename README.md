@@ -24,3 +24,26 @@ Why postgreSQL over H2?
 -> Feature Set
 -> Ecosystem and Tools
 -> Durability
+
+What is a Monolithic architecture?
+Monolithic architectures is a design where all the components of an application are interconnected and interdependent
+Problems : -> Difficult to Implement Changes
+           -> Lack of Scalibility
+           -> Long term Commitment to a single Technology Stack
+           -> Application Complexity and Its Effect on Development and Deployment
+           -> Slowing Down of IDEs
+           -> Increased Application Start Time
+           -> Large Project Size
+           -> Deploying for Small Changes
+           -> Team Collaboration and Autonomy
+
+What is Microservices?
+It structures an application as a collection of small autonomous services.
+Principles: -> Single Responsibility 
+            -> Independence
+            -> Decentralization
+            -> Failure Isolation
+            -> Continuous Delivery/Deployment
+Advantages: -> Scalibility
+            -> Flexibility
+            -> Simplicity
