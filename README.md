@@ -2,6 +2,8 @@ How the flow works at backend
 controller sends request to Service then Service sends request to Repository then Repository sends request to DB and then the user gets it response
 Flow Diagram : Controller → Service → Repository → DB
 
+What does API(Application Programming Interface) mean?
+Set of rules and protocols that allow one software appilication to interact and communicate with another
 
 Docker Commands
 1) docker pull <image>
