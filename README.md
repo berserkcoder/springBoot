@@ -18,3 +18,9 @@ Docker Commands
 12) docker build -t <username/image>
 13) docker logs <container-name/container-id>
 14) docker inspect <container-name/container-id>
+
+Why postgreSQL over H2?
+-> Scalibility
+-> Feature Set
+-> Ecosystem and Tools
+-> Durability
