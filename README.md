@@ -46,6 +46,7 @@ Principles:
 3) Decentralization
 4) Failure Isolation
 5) Continuous Delivery/Deployment
+   
 Advantages:
 1) Scalibility
 2) Flexibility
