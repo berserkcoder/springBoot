@@ -20,30 +20,30 @@ Docker Commands
 14) docker inspect <container-name/container-id>
 
 Why postgreSQL over H2?
--> Scalibility
--> Feature Set
--> Ecosystem and Tools
--> Durability
+1) Scalibility
+2) Feature Set
+3) Ecosystem and Tools
+4) Durability
 
 What is a Monolithic architecture?
 Monolithic architectures is a design where all the components of an application are interconnected and interdependent
-Problems : -> Difficult to Implement Changes
-           -> Lack of Scalibility
-           -> Long term Commitment to a single Technology Stack
-           -> Application Complexity and Its Effect on Development and Deployment
-           -> Slowing Down of IDEs
-           -> Increased Application Start Time
-           -> Large Project Size
-           -> Deploying for Small Changes
-           -> Team Collaboration and Autonomy
+Problems : 1) Difficult to Implement Changes
+           2) Lack of Scalibility
+           3) Long term Commitment to a single Technology Stack
+           4) Application Complexity and Its Effect on Development and Deployment
+           5) Slowing Down of IDEs
+           6) Increased Application Start Time
+           7) Large Project Size
+           8) Deploying for Small Changes
+           9) Team Collaboration and Autonomy
 
 What is Microservices?
 It structures an application as a collection of small autonomous services.
-Principles: -> Single Responsibility 
-            -> Independence
-            -> Decentralization
-            -> Failure Isolation
-            -> Continuous Delivery/Deployment
-Advantages: -> Scalibility
-            -> Flexibility
-            -> Simplicity
+Principles: 1) Single Responsibility 
+            2) Independence
+            3) Decentralization
+            4) Failure Isolation
+            5) Continuous Delivery/Deployment
+Advantages: 1) Scalibility
+            2) Flexibility
+            3) Simplicity
