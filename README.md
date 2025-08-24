@@ -42,11 +42,11 @@ What is Microservices?
 It structures an application as a collection of small autonomous services.
 Principles: 
 1) Single Responsibility 
- 2) Independence
- 3) Decentralization
- 4) Failure Isolation
- 5) Continuous Delivery/Deployment
+2) Independence
+3) Decentralization
+4) Failure Isolation
+5) Continuous Delivery/Deployment
 Advantages:
 1) Scalibility
- 2) Flexibility
- 3) Simplicity
+2) Flexibility
+3) Simplicity
