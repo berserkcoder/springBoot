@@ -60,3 +60,7 @@ Inter-service Communication : It is the communication between each independent s
 Ways to implement are:
 1) Synchronous Communication
 2) Asynchronous Communication
+
+Service Registry : It is used in microservices architectures to enable dynamic service discovery
+
+working : The service registry let the services register on it and the services can send a request to find that service so we can avoid hard coding using urls
