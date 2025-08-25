@@ -55,3 +55,8 @@ Advantages:
 1) Scalibility
 2) Flexibility
 3) Simplicity
+
+Inter-service Communication : It is the communication between each independent service so that they can work together as a single application.
+Ways to implement are:
+1) Synchronous Communication
+2) Asynchronous Communication
