@@ -64,3 +64,10 @@ Ways to implement are:
 Service Registry : It is used in microservices architectures to enable dynamic service discovery
 
 working : The service registry let the services register on it and the services can send a request to find that service so we can avoid hard coding using urls
+
+Benefits :
+1) Dynamic Service Discovery
+2) Load Balancing
+3) Fault Tolerance and Resilience
+4) Scalability and Elasticity
+5) Service Monitoring and Health Checks
