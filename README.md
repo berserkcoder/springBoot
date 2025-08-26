@@ -71,3 +71,11 @@ Benefits :
 3) Fault Tolerance and Resilience
 4) Scalability and Elasticity
 5) Service Monitoring and Health Checks
+
+Feign : It is a declarative web service client designed to make writing HTTP clients easier
+
+Advantages:
+1) Ease of use
+2) Integration with Eureka
+3) Built-in Load Balancing with Ribbon
+4) Support for FallBacks and Circuit Breakers
