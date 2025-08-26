@@ -79,3 +79,12 @@ Advantages:
 2) Integration with Eureka
 3) Built-in Load Balancing with Ribbon
 4) Support for FallBacks and Circuit Breakers
+
+Distributed Tracing : It enables you to trace your request from start to end.
+
+Problems solved:
+1) Request Visualization
+2) Identity Performance Bottlenecks
+3) Error Analysis and Debugging
+4) Tracking Dependency
+5) Performance Optimization
