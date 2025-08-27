@@ -92,3 +92,17 @@ Problems solved:
 Zipkin: It is an open-source distributed tracing system
 
 Micrometer : It provides insights that help you keep tabs on your application's performance
+
+Configuration Management : Simply means managing and controlling the configurations of each microservice in the system
+
+Features : 
+1) Centralized and Versioned Configuration
+2) Dynamic Updates
+3) Security
+4) Application and Profile Specific Configuration
+
+Benefits/advantages :
+1) Single source of truth
+2) Easier to manage and update configurations
+3) Enhances security and control
+4) Easy to deploy and scale microservices 
