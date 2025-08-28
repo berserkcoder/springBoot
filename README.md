@@ -108,3 +108,11 @@ Benefits/advantages :
 4) Easy to deploy and scale microservices 
 
 Spring Cloud Config Server : It is part of the Spring Cloud project,a suite of tools specifically designed for building and managing cloud-native applications.
+
+Features:
+1) Storing Configurations
+2) Serving Configurations
+3) Refreshing Configurations
+4) Easy integration with Spring Boot
+5) Support for different environments
+6) Encryption and Decryption
