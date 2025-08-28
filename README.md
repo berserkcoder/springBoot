@@ -116,3 +116,19 @@ Features:
 4) Easy integration with Spring Boot
 5) Support for different environments
 6) Encryption and Decryption
+
+API Gateway : Is is the enterpoint for user to interact with all microservices as for a user the application is a whole thing and is not distributed in microservices so api gateway solves this issue and act as the entrypoint of the application.
+
+Advantages:
+1) It encapsulates the internal system architecture
+2) Handle cross-cutting concerns like security,load balancing,rate limiting,and analytics
+3) Can authenticate incoming requests and pass only valid requests to the services
+4) Can aggregate responses from different microservices
+
+Capabilities:
+1) Request Routing
+2) Load Balancing
+3) Authentication and Authorization
+4) Rate Limiting
+5) Request and Response Transformation
+6) Aggregation of Data from Multiple Services
