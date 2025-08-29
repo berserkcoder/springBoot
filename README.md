@@ -153,3 +153,11 @@ Techniques :
 5) Fallbacks
 6) Timeouts
 7) Graceful Degradation
+
+Resilience4j : it is a lightweight,easy-to-use fault tolerance library
+
+Resilience4j Modules :
+1) Retry Module
+2) RateLimiter
+3) Bulkhead
+4) CircuitBreaker
