@@ -142,3 +142,5 @@ Necessities :
 4) Increased Complexity
 5) Elasticity
 6) Tolerating External Failures
+
+Resilience : Ability or capacity to recover quickly from difficulties
