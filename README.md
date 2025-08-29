@@ -132,3 +132,5 @@ Capabilities:
 4) Rate Limiting
 5) Request and Response Transformation
 6) Aggregation of Data from Multiple Services
+
+Fault Tolerance : Ability to continue operating without interruption
