@@ -134,3 +134,11 @@ Capabilities:
 6) Aggregation of Data from Multiple Services
 
 Fault Tolerance : Ability to continue operating without interruption
+
+Necessities : 
+1) Fault Isolation
+2) Network Latency
+3) Deployment issues
+4) Increased Complexity
+5) Elasticity
+6) Tolerating External Failures
