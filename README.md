@@ -144,3 +144,12 @@ Necessities :
 6) Tolerating External Failures
 
 Resilience : Ability or capacity to recover quickly from difficulties
+
+Techniques :
+1) Retries
+2) Rate Limiting
+3) Bulkheads
+4) Circuit Breakers
+5) Fallbacks
+6) Timeouts
+7) Graceful Degradation
