@@ -169,3 +169,8 @@ Importance :
 1) Preventing Abuse
 2) Resource Allocation
 3) Cost Management
+
+Uses:
+1) API's
+2) Web Scraping
+3) Login Attempts
