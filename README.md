@@ -5,6 +5,11 @@ Flow Diagram : Controller → Service → Repository → DB
 What does API(Application Programming Interface) mean?
 Set of rules and protocols that allow one software appilication to interact and communicate with another
 
+Why are API's needed?
+1) Share data
+2) Speed up development
+3) Extend the reach and functionality of software
+
 Docker Commands
 1) docker pull <image>
 2) docker push <username/image>
