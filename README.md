@@ -10,6 +10,11 @@ Why are API's needed?
 2) Speed up development
 3) Extend the reach and functionality of software
 
+Types of API:
+1) Internal API's
+2) External API's
+3) Partner API's
+
 Docker Commands
 1) docker pull <image>
 2) docker push <username/image>
