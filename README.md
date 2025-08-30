@@ -22,6 +22,12 @@ Classification of Status Codes:
 4) 4xx(Client Error)
 5) 5xx(Server Error)
 
+Types of API requests:
+1) GET Request
+2) POST Request
+3) PUT Request
+4) DELETE Request
+
 Docker Commands
 1) docker pull <image>
 2) docker push <username/image>
