@@ -199,3 +199,12 @@ Uses:
 3) Login Attempts
 
 Message Queues : If a servise is down it stores the message until the service is open again.
+More Specific : A message queue is a form of asynchronous service-to-service communication used in serverless and microservices architecture.
+
+Need : 
+1) Decoupling
+2) Asynchronous Communication
+3) Scalibility
+4) Fault Tolerance
+5) Event-Driven Architecture
+6) Time Decoupling
