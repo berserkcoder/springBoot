@@ -197,3 +197,5 @@ Uses:
 1) API's
 2) Web Scraping
 3) Login Attempts
+
+Message Queues : If a servise is down it stores the message until the service is open again.
