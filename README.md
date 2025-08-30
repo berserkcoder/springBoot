@@ -164,3 +164,8 @@ Resilience4j Modules :
 
 
 Rate Limiting: Rate limiting is a technique for limiting network traffic
+
+Importance :
+1) Preventing Abuse
+2) Resource Allocation
+3) Cost Management
