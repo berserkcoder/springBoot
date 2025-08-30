@@ -15,6 +15,13 @@ Types of API:
 2) External API's
 3) Partner API's
 
+Classification of Status Codes:
+1) 1xx(Informational)
+2) 2xx(Successful)
+3) 3xx(Redirection)
+4) 4xx(Client Error)
+5) 5xx(Server Error)
+
 Docker Commands
 1) docker pull <image>
 2) docker push <username/image>
