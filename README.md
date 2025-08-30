@@ -23,10 +23,10 @@ Classification of Status Codes:
 5) 5xx(Server Error)
 
 Types of API requests:
-1) GET Request
-2) POST Request
-3) PUT Request
-4) DELETE Request
+1) GET Request : Retrieve or GET resources from server and can only be used to read data
+2) POST Request : Create resources from server
+3) PUT Request : Update existing resources on Server
+4) DELETE Request : Used to DELETE resources from Server
 
 Docker Commands
 1) docker pull <image>
