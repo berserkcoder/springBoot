@@ -161,3 +161,6 @@ Resilience4j Modules :
 2) RateLimiter
 3) Bulkhead
 4) CircuitBreaker
+
+
+Rate Limiting: Rate limiting is a technique for limiting network traffic
